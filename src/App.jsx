@@ -5,7 +5,7 @@ export default class App extends Component {
   constructor(){
     super();
     this.state={data:{
-      name:"Y . Harsha Vardhan",
+      name:"U. Manoj Raju",
       bio:"VLSI Engieneering Student at KLU",
       status:[{label:"Learning",value:"84"},
       {label:"Followers",value:"2M"},
